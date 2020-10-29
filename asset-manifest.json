@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-naman-gupta-iiits/static/css/main.5db1380d.chunk.css",
+    "main.js": "/portfolio-naman-gupta-iiits/static/js/main.ae2520a7.chunk.js",
+    "main.js.map": "/portfolio-naman-gupta-iiits/static/js/main.ae2520a7.chunk.js.map",
+    "runtime-main.js": "/portfolio-naman-gupta-iiits/static/js/runtime-main.a22f726f.js",
+    "runtime-main.js.map": "/portfolio-naman-gupta-iiits/static/js/runtime-main.a22f726f.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/portfolio-naman-gupta-iiits/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.92ab5d80.chunk.js": "/portfolio-naman-gupta-iiits/static/js/2.92ab5d80.chunk.js",
+    "static/js/2.92ab5d80.chunk.js.map": "/portfolio-naman-gupta-iiits/static/js/2.92ab5d80.chunk.js.map",
+    "index.html": "/portfolio-naman-gupta-iiits/index.html",
+    "precache-manifest.2b74dbb77d6e477cefd9aaa3ff13e2d6.js": "/portfolio-naman-gupta-iiits/precache-manifest.2b74dbb77d6e477cefd9aaa3ff13e2d6.js",
+    "service-worker.js": "/portfolio-naman-gupta-iiits/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/portfolio-naman-gupta-iiits/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/portfolio-naman-gupta-iiits/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.92ab5d80.chunk.js.LICENSE.txt": "/portfolio-naman-gupta-iiits/static/js/2.92ab5d80.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/portfolio-naman-gupta-iiits/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/portfolio-naman-gupta-iiits/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a22f726f.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.92ab5d80.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.ae2520a7.chunk.js"
+  ]
+}
